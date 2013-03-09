@@ -1,5 +1,13 @@
-canvas
-{
+#test{
+  width: 1024px;
+  margin: 0px auto;
+}
+canvas{
   background-color: black;
-  margin: 50px auto;
+  font-family: astera;
+}
+
+@font-face{
+  font-family: astera;
+  src: url("astera.ttf");
 }
